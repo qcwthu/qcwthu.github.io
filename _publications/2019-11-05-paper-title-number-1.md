@@ -6,7 +6,6 @@ excerpt: 'A simple way to boost many NMT tasks by using multiple backward and fo
 date: 2019-11-05
 paperurl: 'https://arxiv.org/abs/1911.01986'
 citation: 'Nguyen, Xuan-Phi, et al. "Data Diversification: An Elegant Strategy For Neural Machine Translation." arXiv preprint arXiv:1911.01986 (2019).'
-'
 ---
 A simple way to boost many NMT tasks by using multiple backward and forward models
 
