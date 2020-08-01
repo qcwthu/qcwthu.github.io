@@ -10,8 +10,9 @@ locale                   : "en-US"
 title                    : "Xuan-Phi Nguyen"
 title_separator          : "-"
 name                     : &name "Xuan-Phi Nguyen"
-description              : &description "A Deep Learning researcher"
+description              : &description "A Deep Learning Researcher"
 url                      : https://nxphi47.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nxphi47/nxphi47.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,10 +80,14 @@ analytics:
 
 
 # Site Author
+#I am M Saiful Bari. You may also call me Maruf. I am a computer science enthusiast doing Ph.D. in Natural Language Processing under Prof. Dr. Shafiq Joty in his lab NTU-NLP.
+#  My research objective is to develop deep models that have the notion of humanity (brain motivated).
+#  I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model.
+
 author:
   name             : "Xuan-Phi Nguyen"
   avatar           : "profile.png"
-  bio              : "My biography is in development"
+  bio              : "Enthusiast in Deep Learning, NLP and specifically neural machine translation. <br><br>Ph.D Student at Nanyang Technological University, Singapore"
   location         : "Singapore"
   employer         :
   pubmed           :
@@ -96,20 +101,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nxphi47"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "xuanphinguyen"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
