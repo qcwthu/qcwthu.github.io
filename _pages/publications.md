@@ -13,6 +13,8 @@ author_profile: true
 
 All papers have been subject to peer review unless indicated otherwise. *indicates equal contributions.
 
+Click on a paper to view its short summary.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
