@@ -1,0 +1,29 @@
+---
+title: "LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5"
+excerpt: "We define a challenging yet practical problem as Lifelong Few-shot Language Learning and propose a unified framework for it based on prompt tuning of T5."
+collection: publications
+date: 2022-01-21
+venue: International Conference on Learning Representations (ICLR-22) 2022
+paperurl: 'https://openreview.net/forum?id=HCRVf71PMF'
+thumbnail: /images/publications/contrastive-clustering-umt.png
+citation: 'Chengwei Qin and Shafiq Joty (2022). LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5. In International Conference on Learning Representations (ICLR) 2022.'
+---
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
+<h2>Abstract</h2>
+<p>
+  Existing approaches to lifelong language learning rely on plenty of labeled data for learning a new task, which is hard to obtain in most real scenarios. 
+  Considering that humans can continually learn new tasks from a handful of examples, we expect the models also to be able to generalize well on new few-shot 
+  tasks without forgetting the previous ones. In this work, we define this more challenging yet practical problem as Lifelong Few-shot Language Learning (LFLL) 
+  and propose a unified framework for it based on prompt tuning of T5. Our framework called LFPT5 takes full advantage of PT's strong few-shot learning ability, 
+  and simultaneously trains the model as a task solver and a data generator. Before learning a new domain of the same task type, LFPT5 generates pseudo (labeled) 
+  samples of previously learned domains, and later gets trained on those samples to alleviate forgetting of previous knowledge as it learns the new domain. 
+  In addition, a KL divergence loss is minimized to achieve label consistency between the previous and the current model. While adapting to a new task type, 
+  LFPT5 includes and tunes additional prompt embeddings for the new task. With extensive experiments, we demonstrate that LFPT5 can be applied to various 
+  different types of tasks and significantly outperform previous methods in different LFLL settings.
+</p>
+
