@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuan-Phi Nguyen"
+title                    : "Chengwei Qin"
 title_separator          : "-"
-name                     : &name "Xuan-Phi Nguyen"
-description              : &description "A Deep Learning Researcher"
-url                      : https://nxphi47.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chengwei Qin"
+description              : &description "A Natural language processing Researcher"
+url                      : https://qcwthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nxphi47/nxphi47.github.io"
+repository               : "qcwthu/qcwthu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,14 +85,14 @@ analytics:
 #  I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model.
 
 author:
-  name             : "Xuan-Phi Nguyen"
+  name             : "Chengwei Qin"
   avatar           : "profile.png"
-  bio              : "Enthusiast in Deep Learning, NLP and specifically neural machine translation. <br><br>Ph.D Student at Nanyang Technological University, Singapore"
+  bio              : "Enthusiast in NLP and Deep Learning. <br><br> Ph.D Student at Nanyang Technological University, Singapore."
   location         : "Singapore"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=HN8VxX4AAAAJ&hl=en"
-  email            : "nxphi47@gmail.com"
+  googlescholar    : 
+  email            : "chengwei003@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,20 +101,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nxphi47"
+  github           : "qcwthu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xuanphinguyen"
+  linkedin         : "Chengwei Qin"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "qcwntu"
   vine             :
   weibo            :
   xing             :
