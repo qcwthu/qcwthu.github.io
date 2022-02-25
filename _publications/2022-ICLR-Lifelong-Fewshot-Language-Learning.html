@@ -1,10 +1,10 @@
 ---
-title: "Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation"
+title: "LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5"
 excerpt: "Fully unsupervised mining method that can built synthetic parallel data for unsupervised machine translation"
 collection: publications
 date: 2022-01-20
 venue: International Conference on Learning Representations (ICLR-22) 2022
-paperurl: 'https://openreview.net/pdf?id=pN1JOdrSY9'
+paperurl: 'https://openreview.net/forum?id=HCRVf71PMF'
 thumbnail: /images/publications/contrastive-clustering-umt.png
 citation: 'Xuan-Phi Nguyen, Hongyu Gong, Yun Tang, Changhan Wang, Philipp Koehn, and Shafiq Joty (2022). Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation. In International Conference on Learning Representations (ICLR) 2022.'
 ---
@@ -16,11 +16,14 @@ citation: 'Xuan-Phi Nguyen, Hongyu Gong, Yun Tang, Changhan Wang, Philipp Koehn,
 
 <h2>Abstract</h2>
 <p>
-    Modern unsupervised machine translation systems mostly train their models by generating synthetic parallel training data from large unlabeled monolingual corpora of different languages through various means, 
-    such as iterative backtranslation. However, there may exist small amount of actual parallel data hidden in the sea of unlabeled data, which has not been exploited.
-     We develop a new fine-tuning objective, called Language-Agnostic Constraint for SwAV loss, or LAgSwAV, which enables a pre-trained model to extract such pseudo-parallel 
-     data from the monolingual corpora in a fully unsupervised manner. We then propose an effective strategy to utilize the obtained synthetic data to augment unsupervised machine translation. 
-     Our method achieves the state of the art in the WMT’14 English-French, WMT’16 German-English and English-Romanian bilingual unsupervised translation tasks, with 40.2, 36.8, and 37.0 BLEU, 
-     respectively. We also achieve substantial improvements in the FLoRes low-resource English-Nepali and English-Sinhala unsupervised tasks with 5.3 and 5.4 BLEU, respectively.
+  Existing approaches to lifelong language learning rely on plenty of labeled data for learning a new task, which is hard to obtain in most real scenarios. 
+  Considering that humans can continually learn new tasks from a handful of examples, we expect the models also to be able to generalize well on new few-shot 
+  tasks without forgetting the previous ones. In this work, we define this more challenging yet practical problem as Lifelong Few-shot Language Learning (LFLL) 
+  and propose a unified framework for it based on prompt tuning of T5. Our framework called LFPT5 takes full advantage of PT's strong few-shot learning ability, 
+  and simultaneously trains the model as a task solver and a data generator. Before learning a new domain of the same task type, LFPT5 generates pseudo (labeled) 
+  samples of previously learned domains, and later gets trained on those samples to alleviate forgetting of previous knowledge as it learns the new domain. 
+  In addition, a KL divergence loss is minimized to achieve label consistency between the previous and the current model. While adapting to a new task type, 
+  LFPT5 includes and tunes additional prompt embeddings for the new task. With extensive experiments, we demonstrate that LFPT5 can be applied to various 
+  different types of tasks and significantly outperform previous methods in different LFLL settings.
 </p>
 
