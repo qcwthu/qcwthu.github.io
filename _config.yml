@@ -87,11 +87,11 @@ analytics:
 author:
   name             : "Chengwei Qin"
   avatar           : "chengwei.jpg"
-  bio              : "Enthusiast in NLP and Deep Learning. <br> PhD Student at Nanyang Technological University, Singapore."
+  bio              : "Enthusiast in NLP and Deep Learning. <br> PhD Candidate at Nanyang Technological University, Singapore."
   location         : "Singapore"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=OwBrmXwAAAAJ"
   email            : "chengwei003@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
