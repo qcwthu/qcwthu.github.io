@@ -13,7 +13,7 @@ author_profile: true
 
 All papers have been subject to peer review unless indicated otherwise. *indicates equal contributions.
 
-Click on a paper to view its short summary.
+You can find a full list of my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
