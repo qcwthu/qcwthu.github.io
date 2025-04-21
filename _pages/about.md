@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
-- /about/
-- /about.html
+ - /about/
+ - /about.html
 ---
 
 ## About Me
@@ -19,4 +19,5 @@ My research primarily focuses on LLM reasoning, efficient learning (including bo
 ## News
 
 Apr 2025: I start my journey at AI Thrust, HKUST(GZ).
+
 Apr 2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
