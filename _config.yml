@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chengwei Qin"
 title_separator          : "-"
 name                     : &name "Chengwei Qin"
-description              : &description "A Natural language processing Researcher"
+description              : &description "NLP/LLM Researcher"
 url                      : https://qcwthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Chengwei Qin"
   avatar           : "chengwei.jpg"
-  bio              : "Enthusiast in NLP and Deep Learning. <br> PhD Candidate at Nanyang Technological University, Singapore."
+  bio              : "Enthusiast in NLP and LLMs. <br> Assistant Professor at HKUST(GZ)."
   location         : "Singapore"
   employer         :
   pubmed           :
