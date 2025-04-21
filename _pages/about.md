@@ -20,3 +20,9 @@ My research primarily focuses on LLM reasoning, efficient learning (including bo
 Apr 2025: I start my journey at AI Thrust, HKUST(GZ).
 
 Apr 2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
+
+## Other Experience
+I've had the opportunity to intern at several leading tech companies in the Bay Area, including Meta and AWS. I’m deeply grateful to my colleagues for the invaluable experiences and collaborations during these internships.
+
+## Hobby
+Elliptical trainer, pool, and FPS games
