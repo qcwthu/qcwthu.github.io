@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can find a full list of my papers on my <a href="https://scholar.google.com/citations?user=OwBrmXwAAAAJ">Google Scholar</a>.
+You can find a full list of my papers on my <a href="https://scholar.google.com/citations?user=OwBrmXwAAAAJ" target="_blank">Google Scholar</a>.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
