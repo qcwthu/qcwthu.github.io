@@ -42,6 +42,33 @@ Fangkai Jiao, **Chengwei Qin**, Zhengyuan Liu, Nancy F Chen, Shafiq Joty. _EMNLP
 Wenhan Xia\*, **Chengwei Qin**\*, Elad Hazan. _ICML 24 Workshop on LLMs and Cognition_  
 [[Paper](https://arxiv.org/abs/2401.04151)]
 
-- **Data Augmentation using LLMs: Methods, Learning Paradigms and Challenges** <br>
+- **Data Augmentation using Large Language Models: Data Perspectives, Learning Paradigms and Challenges** <br>
 Bosheng Ding\*, **Chengwei Qin**\*, Ruochen Zhao\*, Tianze Luo, Xinze Li, Guizhen Chen, Wenhan Xia, Junjie Hu, Anh Tuan Luu, Shafiq Joty. _ACL 24_  
-[[Paper](https://arxiv.org/abs/2401.04151)]
+[[Paper](https://arxiv.org/abs/2403.02990)]
+
+- **Lifelong Event Detection with Embedding Space Separation and Compaction** <br>
+**Chengwei Qin**, Ruirui Chen, Ruochen Zhao, Wenhan Xia, Shafiq Joty. _NAACL 24_  
+[[Paper](https://arxiv.org/abs/2404.02507)]
+
+- **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** <br>
+**Chengwei Qin**, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang. _EMNLP 23_  
+[[Paper](https://arxiv.org/abs/2302.06476)]
+
+- **Lifelong Sequence Generation with Dynamic Module Expansion and Adaptation** <br>
+**Chengwei Qin**, Chen Chen, Shafiq Joty. _EMNLP 23_  
+[[Paper](https://arxiv.org/abs/2310.09886)]
+
+- **Is GPT-3 a Good Data Annotator?** <br>
+Bosheng Ding\*, **Chengwei Qin**\*, Linlin Liu, Lidong Bing, Shafiq Joty, Boyang Li. _ACL 23_  
+[[Paper](https://arxiv.org/abs/2212.10450)]
+
+- **Verify-and-edit: A knowledge-enhanced chain-of-thought framework** <br>
+Ruochen Zhao, Xingxuan Li, Shafiq Joty, **Chengwei Qin**, Lidong Bing. _ACL 23_  
+[[Paper](https://arxiv.org/abs/2305.03268)]
+
+- **Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?** <br>
+**Chengwei Qin**, Shafiq Joty, Qian Li, Ruochen Zhao. _ACL 23_  
+[[Paper](https://arxiv.org/abs/2302.08143)]
+
+
+
