@@ -31,7 +31,7 @@ Area Chair Awards, ACL 2023
 
 Gold Medal (Top **0.5**%), Kaggle CommonLit Readability Prize
 
-Outstanding Graduate Award, the department of Computer Science and Technology at Tsinghua University
+Outstanding Graduate Award, Department of Computer Science and Technology at Tsinghua University
 
 ## Other Experience
 I've had the opportunity to intern at several leading tech companies in the Bay Area, including Meta and AWS. I’m deeply grateful to my colleagues for the invaluable experiences and collaborations during these internships.
