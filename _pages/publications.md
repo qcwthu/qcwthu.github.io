@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,9 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-You can find a full list of my papers on <a href="https://scholar.google.com/citations?user=OwBrmXwAAAAJ">my Google Scholar profile</a>.
+You can find a full list of my papers on my <a href="https://scholar.google.com/citations?user=OwBrmXwAAAAJ">Google Scholar</a> profile.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
 
