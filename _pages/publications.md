@@ -38,6 +38,14 @@ Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Ng
 Fangkai Jiao, **Chengwei Qin**, Zhengyuan Liu, Nancy F Chen, Shafiq Joty. _EMNLP 24_  
 [[Paper](https://arxiv.org/abs/2402.00658)]
 
+- **LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments** <br>
+Ruirui Chen, Weifeng Jiang, **Chengwei Qin**, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong, Bo Ai. _EMNLP 24_  
+[[Paper](https://arxiv.org/abs/2408.15903)]
+
+- **Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models** <br>
+Yuchen Hu, Chen Chen, Chao-Han Huck Yang, **Chengwei Qin**, Pin-Yu Chen, Eng Siong Chng, Chao Zhang. _NeurIPS 24_  
+[[Paper](https://arxiv.org/abs/2405.14161)]
+
 - **Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning** <br>
 Wenhan Xia\*, **Chengwei Qin**\*, Elad Hazan. _ICML 24 Workshop on LLMs and Cognition_  
 [[Paper](https://arxiv.org/abs/2401.04151)]
@@ -62,13 +70,23 @@ Bosheng Ding\*, **Chengwei Qin**\*, Ruochen Zhao\*, Tianze Luo, Xinze Li, Guizhe
 Bosheng Ding\*, **Chengwei Qin**\*, Linlin Liu, Lidong Bing, Shafiq Joty, Boyang Li. _ACL 23_  
 [[Paper](https://arxiv.org/abs/2212.10450)]
 
-- **Verify-and-edit: A knowledge-enhanced chain-of-thought framework** <br>
-Ruochen Zhao, Xingxuan Li, Shafiq Joty, **Chengwei Qin**, Lidong Bing. _ACL 23_  
-[[Paper](https://arxiv.org/abs/2305.03268)]
-
 - **Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?** <br>
 **Chengwei Qin**, Shafiq Joty, Qian Li, Ruochen Zhao. _ACL 23_  
 [[Paper](https://arxiv.org/abs/2302.08143)]
 
+- **Verify-and-edit: A knowledge-enhanced chain-of-thought framework** <br>
+Ruochen Zhao, Xingxuan Li, Shafiq Joty, **Chengwei Qin**, Lidong Bing. _ACL 23_  
+[[Paper](https://arxiv.org/abs/2305.03268)]
 
+- **Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition** <br>
+Yuchen Hu, Ruizhe Li, Chen Chen, **Chengwei Qin**, Qiushi Zhu, Eng Siong Chng. _ACL 23_  
+[[Paper](https://arxiv.org/abs/2306.10563)]
+
+- **Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation** <br>
+**Chengwei Qin**, Shafiq Joty. _ACL 22_  
+[[Paper](https://arxiv.org/abs/2203.02135)]
+
+- **LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5** <br>
+**Chengwei Qin**, Shafiq Joty. _ICLR 22_  
+[[Paper](https://arxiv.org/abs/2110.07298)]
 
