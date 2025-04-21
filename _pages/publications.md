@@ -27,5 +27,5 @@ Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Ng
 [[Paper](https://arxiv.org/abs/2412.18011)][[Data & Code]()]  
 
 - **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>
-**Chengwei Qin**, Wenhan Xia, Tan Wang, Fangkai Jiao, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
+**Chengwei Qin**\*, Wenhan Xia\*, Tan Wang\*, Fangkai Jiao, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
 [[Paper](https://arxiv.org/abs/2404.12728)]
