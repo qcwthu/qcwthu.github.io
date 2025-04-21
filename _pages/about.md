@@ -21,6 +21,18 @@ Apr 2025: I start my journey at AI Thrust, HKUST(GZ).
 
 Apr 2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
 
+## Awards
+
+Outstanding Paper Awards, EMNLP 2024
+
+Area Chair Awards, ACL 2023
+
+4th Place, CAIL 2021 (Legal Case Retrieval)
+
+Gold Medal (Top **0.5**%), Kaggle CommonLit Readability Prize
+
+Outstanding Graduate Award, the department of Computer Science and Technology at Tsinghua University
+
 ## Other Experience
 I've had the opportunity to intern at several leading tech companies in the Bay Area, including Meta and AWS. I’m deeply grateful to my colleagues for the invaluable experiences and collaborations during these internships.
 
