@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I'm Chengwei Qin, currently an Assistant Professor in <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence" target="_blank">Thrust of Artificial Intelligence</a> at <a href="https://www.hkust-gz.edu.cn" target="_blank">HKUST(GZ)</a>, leading the HKUST(GZ) NLP group. I am also an Affiliated Assistant Professor at HKUST. I obtained my Ph.D. from the College of Computing and Data Science at <a href="https://www.ntu.edu.sg" target="_blank">Nanyang Technological University, Singapore (NTU)</a>, advised by <a href="https://raihanjoty.github.io" target="_blank">Prof. Shafiq Joty</a> and <a href="https://personal.ntu.edu.sg/axsun/" target="_blank">Prof. Aixin Sun</a>. Before that, I graduated from the Department of Computer Science and Technology at <a href="https://www.tsinghua.edu.cn" target="_blank">Tsinghua University</a>, supervised by <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/" target="_blank">Prof. Zhiyuan Liu</a>.
 
-My research primarily focuses on LLM reasoning, efficient learning (including both data and parameter efficiency), and multimodality. Feel free to reach out to **chengweiqin@hkust-gz.edu.cn** or **qcwthu@gmail.com** if you have anything you would like to discuss.
+My research primarily focuses on LLM reasoning, agent, multimodality, and efficient learning (including both data and parameter efficiency). Feel free to reach out to **chengweiqin@hkust-gz.edu.cn** or **qcwthu@gmail.com** if you have anything you would like to discuss.
 
 **To prospective students:** Please include "[Enrolling Year] Prospective Student - PhD/Postdoc/RA/Visiting Student" in the subject line of your email.
 
