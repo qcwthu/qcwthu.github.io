@@ -25,8 +25,8 @@ Xiaomin Yu, Pengxiang Ding, Wenjie Zhang, Siteng Huang, Songyang Gao, **Chengwei
 Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, **Chengwei Qin**, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
 [[Paper](https://arxiv.org/abs/2412.18011)]
 
-- **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library** <br>
-Mathieu Ravaut*, Bosheng Ding*, Fangkai Jiao, Hailin Chen, Xingxuan Li, Ruochen Zhao, **Chengwei Qin**, Caiming Xiong, Shafiq Joty. _Preprint._
+- **A Comprehensive Survey of Contamination Detection Methods in Large Language Models** <br>
+Mathieu Ravaut\*, Bosheng Ding\*, Fangkai Jiao, Hailin Chen, Xingxuan Li, Ruochen Zhao, **Chengwei Qin**, Caiming Xiong, Shafiq Joty. _Preprint._
 [[Paper](https://arxiv.org/abs/2404.00699)]
 
 - **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation** <br>
