@@ -26,6 +26,10 @@ Xiaomin Yu, Pengxiang Ding, Wenjie Zhang, Siteng Huang, Songyang Gao, **Chengwei
 Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, **Chengwei Qin**, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
 [[Paper](https://arxiv.org/abs/2412.18011)]
 
+- **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation** <br>
+**Chengwei Qin**\*, Wenxuan Zhou, Karthik Abinav Sankararaman, Nanshu Wang, Tengyu Xu, Alexander Radovic, Eryk Helenowski, Arya Talebzadeh, Aditya Tayade, Sinong Wang, Shafiq Joty, Han Fang, Hao Ma. _ACL 25_ 
+[[Paper](https://openreview.net/forum?id=QM72I2gE7g)]
+
 - **Theory of Mind in Large Language Models: Assessment and Enhancement** <br>
 Ruirui Chen, Weifeng Jiang, **Chengwei Qin**, Cheston Tan. _ACL 25_ 
 [[Paper](https://arxiv.org/abs/2505.00026)]
