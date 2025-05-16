@@ -26,8 +26,16 @@ Xiaomin Yu, Pengxiang Ding, Wenjie Zhang, Siteng Huang, Songyang Gao, **Chengwei
 Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, **Chengwei Qin**, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
 [[Paper](https://arxiv.org/abs/2412.18011)]
 
+- **Theory of Mind in Large Language Models: Assessment and Enhancement** <br>
+Ruirui Chen, Weifeng Jiang, **Chengwei Qin**, Cheston Tan. _ACL 25_ 
+[[Paper](https://arxiv.org/abs/2505.00026)]
+
+- **Beyond Output Matching: Bidirectional Alignment for Enhanced In-Context Learning** <br>
+**Chengwei Qin**\*, Wenhan Xia\*, Fangkai Jiao, Chen Chen, Yuchen Hu, Bosheng Ding, Shafiq Joty. _ACL 25_ 
+[[Paper](https://arxiv.org/abs/2312.17055)]
+
 - **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>
-**Chengwei Qin**\*, Wenhan Xia\*, Tan Wang\*, Fangkai Jiao, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
+**Chengwei Qin**\*, Wenhan Xia\*, Tan Wang\*, Fangkai Jiao, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _ACL 25_ 
 [[Paper](https://arxiv.org/abs/2404.12728)]
 
 - **In-Context Learning with Iterative Demonstration Selection** <br>
