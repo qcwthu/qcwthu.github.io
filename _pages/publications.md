@@ -35,7 +35,7 @@ Ruirui Chen, Weifeng Jiang, **Chengwei Qin**, Cheston Tan. _ACL 25_
 [[Paper](https://arxiv.org/abs/2505.00026)]
 
 - **Beyond Output Matching: Bidirectional Alignment for Enhanced In-Context Learning** <br>
-**Chengwei Qin**\*, Wenhan Xia\*, Fangkai Jiao, Chen Chen, Yuchen Hu, Bosheng Ding, Shafiq Joty. _ACL 25_ 
+**Chengwei Qin**\*, Wenhan Xia\*, Fangkai Jiao, Chen Chen, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _ACL 25_ 
 [[Paper](https://arxiv.org/abs/2312.17055)]
 
 - **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>
