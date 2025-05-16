@@ -17,6 +17,8 @@ My research primarily focuses on LLM reasoning, agent, multimodality, and effici
 
 ## News
 
+May 2025: We have four papers accepted by ACL 2025. Congrats to my co-authors!
+
 Apr 2025: I start my journey at AI Thrust, HKUST(GZ).
 
 Apr 2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
