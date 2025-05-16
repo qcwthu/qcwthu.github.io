@@ -13,7 +13,6 @@ You can find a full list of my papers on my <a href="https://scholar.google.com/
 
 
 
-
 - **A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems** <br>
 Zixuan Ke, Fangkai Jiao, Yifei Ming, Xuan-Phi Nguyen, Austin Xu, Do Xuan Long, Minzhi Li, **Chengwei Qin**, Peifeng Wang, Silvio Savarese, Caiming Xiong, Shafiq Joty. _Preprint._  
 [[Website](https://llm-reasoning-ai.github.io/)][[Paper](https://arxiv.org/abs/2504.09037)]
@@ -25,6 +24,10 @@ Xiaomin Yu, Pengxiang Ding, Wenjie Zhang, Siteng Huang, Songyang Gao, **Chengwei
 - **StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs** <br>
 Hailin Chen\*, Fangkai Jiao\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, **Chengwei Qin**, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
 [[Paper](https://arxiv.org/abs/2412.18011)]
+
+- **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library** <br>
+Mathieu Ravaut*, Bosheng Ding*, Fangkai Jiao, Hailin Chen, Xingxuan Li, Ruochen Zhao, **Chengwei Qin**, Caiming Xiong, Shafiq Joty. _Preprint._
+[[Paper](https://arxiv.org/abs/2404.00699)]
 
 - **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation** <br>
 **Chengwei Qin**, Wenxuan Zhou, Karthik Abinav Sankararaman, Nanshu Wang, Tengyu Xu, Alexander Radovic, Eryk Helenowski, Arya Talebzadeh, Aditya Tayade, Sinong Wang, Shafiq Joty, Han Fang, Hao Ma. _ACL 25_ 
