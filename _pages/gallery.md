@@ -5,4 +5,4 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## aaaaaaa
+## Welcome to my gallery!
