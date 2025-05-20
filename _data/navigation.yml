@@ -15,4 +15,5 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  - title: "Gallery"
+    url: /gallery/
