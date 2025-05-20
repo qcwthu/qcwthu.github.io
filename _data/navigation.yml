@@ -13,7 +13,7 @@
 #  url: /markdown/
 
 main:
-- title: "Publications"
+  - title: "Publications"
     url: /publications/
   # - title: "Gallery"
   #   url: /gallery/
