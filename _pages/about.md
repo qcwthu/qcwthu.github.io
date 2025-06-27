@@ -16,6 +16,8 @@ My research primarily focuses on LLM reasoning, agent, multimodality, and effici
 
 ## News
 
+Jun 2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR (Survey Certification). Congrats to my co-authors!
+
 May 2025: We have four papers accepted by ACL 2025. Congrats to my co-authors!
 
 Apr 2025: I start my journey at AI Thrust, HKUST(GZ).
