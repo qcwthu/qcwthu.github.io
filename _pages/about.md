@@ -16,6 +16,8 @@ My research primarily focuses on LLM reasoning, agent, multimodality, and effici
 
 ## News
 
+Feb 2026: One paper is accepted by TMLR, one paper is accepted by ICLR 2026, and three papers are accepted by CVPR 2026. Congrats to my co-authors!
+
 Jun 2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR (Survey Certification). Congrats to my co-authors!
 
 May 2025: We have four papers accepted by ACL 2025. Congrats to my co-authors!
