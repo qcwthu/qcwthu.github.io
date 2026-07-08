@@ -3,76 +3,43 @@
    ========================================================================== */
 
 .students-page {
-  margin-top: 0.5em;
+  margin-top: 0.25em;
 }
 
 .students-section {
-  margin: 0 0 2em;
-}
-
-.students-section__heading {
-  display: flex;
-  align-items: center;
-  gap: 0.6em;
-  margin-bottom: 0.85em;
-  padding-bottom: 0.45em;
-  border-bottom: 1px solid $border-color;
+  margin: 0 0 2.25em;
 
   h2 {
-    margin: 0;
-    padding: 0;
-    border-bottom: 0;
+    margin: 0 0 0.65em;
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid $border-color;
     font-size: $type-size-4;
   }
 }
 
-.students-section__count {
-  display: inline-flex;
-  align-items: center;
-  min-height: 1.55em;
-  padding: 0.1em 0.55em;
-  border-radius: 999px;
-  background: $lighter-gray;
-  color: $gray;
-  font-size: $type-size-7;
-  font-weight: 700;
-}
-
-.students-grid {
+.student-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 0.65em;
+  column-gap: 1.5em;
+  row-gap: 0.35em;
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.student-card {
+.student-list__item {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75em;
-  min-height: 3em;
-  padding: 0.65em 0.75em;
-  border: 1px solid $border-color;
-  border-left: 3px solid mix(#fff, $info-color, 35%);
-  border-radius: 6px;
-  background: #fff;
-  box-shadow: 0 1px 2px rgba(#000, 0.035);
-
-  &:hover {
-    border-color: mix(#fff, $info-color, 55%);
-    box-shadow: 0 2px 8px rgba(#000, 0.06);
-  }
-}
-
-.student-card--previous {
-  border-left-color: $light-gray;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.35em;
+  margin-bottom: 0.15em;
+  line-height: 1.45;
 }
 
 .student-card__name {
-  display: block;
+  display: inline;
   color: $text-color;
-  font-weight: 700;
-  line-height: 1.25;
+  font-weight: 600;
 }
 
 .archive .student-card__name a {
@@ -86,21 +53,13 @@
 }
 
 .student-card__term {
-  flex: none;
-  padding: 0.1em 0.5em;
-  border: 1px solid mix(#fff, $info-color, 68%);
-  border-radius: 999px;
-  background: mix(#fff, $info-color, 88%);
-  color: mix(#000, $info-color, 20%);
-  font-size: $type-size-7;
-  font-weight: 700;
-  line-height: 1.35;
+  color: $gray;
+  font-size: 0.9em;
   white-space: nowrap;
 }
 
 .student-card__destination {
-  display: block;
-  margin-top: 0.2em;
+  display: inline;
   color: $gray;
-  font-size: $type-size-7;
+  font-size: 0.9em;
 }
