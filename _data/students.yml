@@ -1,13 +1,15 @@
 current:
   # - name: "Student Name"
   #   program: "PhD student"
-  #   period: "2026-"
+  #   term: "25 Fall"
   #   topic: "LLM reasoning"
+  #   # Homepage URL. Student names link here when provided.
   #   url: "https://example.com"
 
 former:
   # - name: "Student Name"
   #   program: "Research assistant"
-  #   period: "2025-2026"
-  #   next: "Next position or affiliation"
+  #   term: "24 Fall"
+  #   destination: "Next position or affiliation"
+  #   # Homepage URL. Student names link here when provided.
   #   url: "https://example.com"
