@@ -231,7 +231,7 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
+        height: 2px;
         background: mix(#fff, $primary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
@@ -245,6 +245,20 @@
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
+      }
+    }
+
+    .masthead__menu-item--active {
+      font-weight: 700;
+
+      a {
+        color: $masthead-link-color-hover;
+
+        &:before {
+          -webkit-transform: scaleX(1);
+              -ms-transform: scaleX(1);
+                  transform: scaleX(1);
+        }
       }
     }
   }
