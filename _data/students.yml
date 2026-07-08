@@ -1,15 +1,44 @@
-current:
-  # - name: "Student Name"
-  #   program: "PhD student"
-  #   term: "25 Fall"
-  #   topic: "LLM reasoning"
-  #   # Homepage URL. Student names link here when provided.
-  #   url: "https://example.com"
+current_phd:
+  - name: "Hehai Lin"
+    term: "25 Fall"
+  - name: "Sudong Wang"
+    term: "25 Fall"
+  - name: "Wenkai Chen"
+    term: "25 Fall"
+  - name: "Bo Xu"
+    term: "26 Fall"
+  - name: "Jiayu Yang"
+    term: "26 Fall"
+  - name: "Junzhi Chen"
+    term: "26 Fall"
+
+current_mphil:
+  - name: "Xiaomin Yu"
+    term: "25 Fall"
+  - name: "Zixuan Wang"
+    term: "25 Fall"
+  - name: "Weiquan Huang"
+    term: "25 Fall"
+  - name: "Yu Yan"
+    term: "25 Fall"
+  - name: "Yubao Zhao"
+    term: "25 Fall"
+  - name: "Yiqing Peng"
+    term: "25 Fall"
+  - name: "Haiying Xu"
+    term: "26 Fall"
+
+current_research_assistants:
+  - name: "Yue Wu"
+  - name: "Yutao Lai"
+  - name: "Zhe Yu"
+  - name: "Ziyang Chen"
 
 former:
-  # - name: "Student Name"
-  #   program: "Research assistant"
-  #   term: "24 Fall"
-  #   destination: "Next position or affiliation"
-  #   # Homepage URL. Student names link here when provided.
-  #   url: "https://example.com"
+  - name: "Haotian Wu"
+  - name: "HaoZhen Zhang"
+  - name: "Kaiwen Yan"
+  - name: "Yan Ming"
+  - name: "Chunhan Li"
+  - name: "Jianbo Lin"
+  - name: "Jiwei Fang"
