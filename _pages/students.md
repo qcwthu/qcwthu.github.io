@@ -76,7 +76,7 @@ author_profile: true
     <li class="student-list__item">
       <span class="student-card__name">{% assign homepage = student.url | default: student.homepage %}{% if homepage %}<a href="{{ homepage }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
       {% assign destination = student.destination | default: student.next %}
-      {% if destination %}<span class="student-card__destination">Next: {{ destination }}</span>{% endif %}
+      {% if destination %}<span class="student-card__destination">Now: {{ destination }}</span>{% endif %}
     </li>
 {% endfor %}
   </ul>
