@@ -10,50 +10,94 @@ author_profile: true
 {% assign current_research_assistants = site.data.students.current_research_assistants %}
 {% assign former_students = site.data.students.former %}
 
-## Current PhD Students
+<div class="students-page">
+
+<section class="students-section">
+  <div class="students-section__heading">
+    <h2>Current PhD Students</h2>
+    <span class="students-section__count">{{ current_phd_students.size }}</span>
+  </div>
 
 {% if current_phd_students and current_phd_students.size > 0 %}
-<ul>
+  <div class="students-grid">
 {% for student in current_phd_students %}
-  <li>{% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}{% assign entry_term = student.term | default: student.period %}{% if entry_term %} ({{ entry_term }}){% endif %}</li>
+    <article class="student-card">
+      <span class="student-card__name">{% assign homepage = student.url | default: student.homepage %}{% if homepage %}<a href="{{ homepage }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
+      {% assign entry_term = student.term | default: student.period %}
+      {% if entry_term %}<span class="student-card__term">{{ entry_term }}</span>{% endif %}
+    </article>
 {% endfor %}
-</ul>
+  </div>
 {% else %}
-The PhD student list is being updated.
+  <p>The PhD student list is being updated.</p>
 {% endif %}
 
-## Current MPhil Students
+</section>
+
+<section class="students-section">
+  <div class="students-section__heading">
+    <h2>Current MPhil Students</h2>
+    <span class="students-section__count">{{ current_mphil_students.size }}</span>
+  </div>
 
 {% if current_mphil_students and current_mphil_students.size > 0 %}
-<ul>
+  <div class="students-grid">
 {% for student in current_mphil_students %}
-  <li>{% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}{% assign entry_term = student.term | default: student.period %}{% if entry_term %} ({{ entry_term }}){% endif %}</li>
+    <article class="student-card">
+      <span class="student-card__name">{% assign homepage = student.url | default: student.homepage %}{% if homepage %}<a href="{{ homepage }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
+      {% assign entry_term = student.term | default: student.period %}
+      {% if entry_term %}<span class="student-card__term">{{ entry_term }}</span>{% endif %}
+    </article>
 {% endfor %}
-</ul>
+  </div>
 {% else %}
-The MPhil student list is being updated.
+  <p>The MPhil student list is being updated.</p>
 {% endif %}
 
-## Current Research Assistants
+</section>
+
+<section class="students-section">
+  <div class="students-section__heading">
+    <h2>Current Research Assistants</h2>
+    <span class="students-section__count">{{ current_research_assistants.size }}</span>
+  </div>
 
 {% if current_research_assistants and current_research_assistants.size > 0 %}
-<ul>
+  <div class="students-grid">
 {% for student in current_research_assistants %}
-  <li>{% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</li>
+    <article class="student-card">
+      <span class="student-card__name">{% assign homepage = student.url | default: student.homepage %}{% if homepage %}<a href="{{ homepage }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
+    </article>
 {% endfor %}
-</ul>
+  </div>
 {% else %}
-The research assistant list is being updated.
+  <p>The research assistant list is being updated.</p>
 {% endif %}
 
-## Previous Members
+</section>
+
+<section class="students-section">
+  <div class="students-section__heading">
+    <h2>Previous Members</h2>
+    <span class="students-section__count">{{ former_students.size }}</span>
+  </div>
 
 {% if former_students and former_students.size > 0 %}
-<ul>
+  <div class="students-grid">
 {% for student in former_students %}
-  <li>{% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}{% assign destination = student.destination | default: student.next %}{% if destination %}<br>Next: {{ destination }}{% endif %}</li>
+    <article class="student-card student-card--previous">
+      <span>
+        <span class="student-card__name">{% assign homepage = student.url | default: student.homepage %}{% if homepage %}<a href="{{ homepage }}" target="_blank" rel="noopener">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
+        {% assign destination = student.destination | default: student.next %}
+        {% if destination %}<span class="student-card__destination">Next: {{ destination }}</span>{% endif %}
+      </span>
+    </article>
 {% endfor %}
-</ul>
+  </div>
 {% else %}
-The previous member list is being updated.
+  <p>The previous member list is being updated.</p>
 {% endif %}
+
+</section>
+
+</div>
