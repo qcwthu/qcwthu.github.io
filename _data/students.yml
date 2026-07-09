@@ -7,6 +7,7 @@ current_phd:
     url: "https://xiao4579.github.io/"
   - name: "Wenkai Chen"
     term: "25 Fall"
+    url: "https://wk-chen.github.io/"
   - name: "Bo Xu"
     term: "26 Fall"
     url: "https://monoweb-wiki.vercel.app/"
@@ -41,6 +42,7 @@ current_mphil:
 current_research_assistants:
   - name: "Yue Wu"
   - name: "Yutao Lai"
+    url: "https://github.com/LaiYutao"
   - name: "Zhe Yu"
     url: "https://lory7c.github.io"
   - name: "Ziyang Chen"
