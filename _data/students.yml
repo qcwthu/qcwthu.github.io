@@ -41,6 +41,7 @@ current_mphil:
 
 current_research_assistants:
   - name: "Yue Wu"
+    url: "https://poetmoon.github.io/"
   - name: "Yutao Lai"
     url: "https://github.com/LaiYutao"
   - name: "Zhe Yu"
